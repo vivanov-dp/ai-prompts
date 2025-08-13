@@ -14,6 +14,6 @@ There should be a placeholder checkbox before each task, to be checked off when 
 
 ## Execute stage of planned task
 
-Analyze the tasks plan in `tasks/auth-login.md` and consider context stored there if any.
-Perform the tasks listed under Stage 1 in the plan and mark them as done.
-Preserve context by adding it to the end of the plan file, so that you can read it back and continue working on the tasks in the future.
+Analyze the list of tasks in `tasks/auth-login.md` and consider context stored at the of the file.
+Perform the items listed under Stage 3 and mark them as done.
+Preserve context by adding it to the end of the file, so that you can read it back and continue working on the tasks in the future.
