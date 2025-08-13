@@ -14,4 +14,6 @@ There should be a placeholder checkbox before each task, to be checked off when 
 
 ## Execute stage of planned task
 
-Perform the tasks listed under Stage 1 in `tasks/hosts-plan.md` and mark them as done
+Analyze the tasks plan in `tasks/auth-login.md` and consider context stored there if any.
+Perform the tasks listed under Stage 1 in the plan and mark them as done.
+Preserve context by adding it to the end of the plan file, so that you can read it back and continue working on the tasks in the future.
