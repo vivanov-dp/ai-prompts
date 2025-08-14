@@ -17,3 +17,10 @@ There should be a placeholder checkbox before each task, to be checked off when 
 Analyze the list of tasks in `tasks/auth-login.md` and consider context stored at the of the file.
 Perform the items listed under Stage 3 and mark them as done.
 Preserve context by adding it to the end of the file, so that you can read it back and continue working on the tasks in the future.
+
+-----
+
+Analyze the list of tasks in `tasks/auth-login.md` and consider context stored at the of the file.
+Determine the first stage that needs to be completed and perform it.
+Preserve context by adding it to the end of the file and mention the number of the stage that was just completed, 
+so that you can read it back and continue working on the tasks in the future.
