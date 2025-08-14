@@ -20,7 +20,7 @@ Preserve context by adding it to the end of the file, so that you can read it ba
 
 -----
 
-Analyze the list of tasks in `tasks/auth-login.md` and consider context stored at the of the file.
+Analyze the list of tasks in `tasks/auth-login.md` and consider context stored at the end of the file.
 Determine the first stage that needs to be completed and perform it.
 Preserve context by adding it to the end of the file and mention the number of the stage that was just completed, 
 so that you can read it back and continue working on the tasks in the future.
